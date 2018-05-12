@@ -1,0 +1,49 @@
+_repo: The-Kingdom-of-God-is-Within-YouChristianity-Not-as-a-Mystic-Religion-But-as-a-New-Theory-of-__43302
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoy, Graf Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43302'
+  lccn: '12039483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcsh 'Christianity -- Essence, genius, nature'
+- !lcc 'BR'
+- !lcsh 'Nonviolence -- Religious aspects -- Christianity'
+- !lcsh 'Government, Resistance to -- Religious aspects -- Christianity'
+title: "\"The Kingdom of God Is Within You\"\r\nChristianity Not as a Mystic Religion\
+  \ but as a New Theory of Life"
+url: http://www.gutenberg.org/ebooks/43302
